@@ -7,6 +7,10 @@
     - qlThuVien.cdb
     - qlThuVien.cdm
     - qlThuVien.pdm
+    - UseCase Quan li DG.oom
+    - UseCase Quan li muon tra.oom
+    - UseCase Sach.oom
+    - UseCase Tong quan.oom
    Hình ảnh:
     - CDM.png
     - PDM.png
